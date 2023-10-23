@@ -1,0 +1,12 @@
+.btn-blue {
+  background-color: rgb(242, 236, 190); /* Green */
+  border-radius: 5px;
+  color: rgb(192, 130, 97);
+  padding: 15px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: serif;
+}
